@@ -1,7 +1,14 @@
+/.idea/
+/Lander/settings_local.*
+/Lander/settings.*
+*.pyc
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
 
 # C extensions
 *.so
